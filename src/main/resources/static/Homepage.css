@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    background: black;
+    color: white ;
+}
+
+.Main {
+    height: 75vh;
+    background: radial-gradient(ellipse at 50% 20%, midnightblue 0%, black 70%);
+}
