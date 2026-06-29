@@ -19,7 +19,7 @@ public class DemoApplication {
 	}
 
 	@GetMapping("/")
-	public String home {
+	public String home() {
 		return "home";
 	}
 
