@@ -19,8 +19,8 @@ public class DemoApplication {
 	}
 
 	@GetMapping("/")
-	public String home() {
-		return "home";
+	public String Homepage() {
+		return "Homepage";
 	}
 
 }
